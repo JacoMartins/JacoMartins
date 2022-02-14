@@ -1,6 +1,6 @@
 ## 👋 Olá, sou Jacó Martins.
 
--  💻 Futuro desenvolvedor front-end
+- 🖥 Futuro desenvolvedor front-end
 -  🔨 Conhecimentos em construção
 -  💻📱 Se eu conseguir superar minhas expectativas, futuro desenvolvedor full-stack e mobile!
 <header>
