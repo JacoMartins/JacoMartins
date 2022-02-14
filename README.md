@@ -24,7 +24,6 @@ Atualmente aprendendo:
   <img align="center" alt="Jacó-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 <br>
-<br>
 Pretendo aprender:
 <div style="display: inline_block">
   <img align="center" alt="Jacó-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
