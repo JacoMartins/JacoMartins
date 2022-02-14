@@ -1,4 +1,4 @@
-## Olá, sou Jacó Martins.
+## 👋 Olá, sou Jacó Martins.
 
 -  💻 Futuro desenvolvedor front-end
 -  🔨 Conhecimentos em construção
