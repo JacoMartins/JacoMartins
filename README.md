@@ -1,8 +1,8 @@
 ## 👋 Olá, sou Jacó Martins.
 
-- 🖥 Futuro desenvolvedor front-end
+- 🖥 Desenvolvedor front-end
 -  🔨 Conhecimentos em construção
--  💻📱 Se eu conseguir superar minhas expectativas, futuro desenvolvedor full-stack e mobile!
+-  💻📱 Futuro desenvolvedor full-stack e mobile!
 <header>
    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 </header>
