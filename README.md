@@ -27,7 +27,7 @@ Tenho domínio sobre:
 Atualmente aprendendo:
 <div style="display: inline_block">
   <img align="center" alt="Logomarca do PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="Logomarca do Laravel" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+  <img align="center" alt="Logomarca do Laravel" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
 </div>
 <br>
 Pretendo aprender:
