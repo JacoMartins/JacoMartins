@@ -1,4 +1,4 @@
-## 👋 Sou Jacó Martins
+## Sou Jacó Martins
 
 - 🖥 Desenvolvedor full stack
 
