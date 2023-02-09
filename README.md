@@ -1,19 +1,15 @@
-## Sou Jacó Martins
-
-- 🖥 Desenvolvedor full stack
+## Olá! Sou <span color="#A277FF">Jacó Martins</span>.
+<br>
+<div style="display: flex; flex-direction: row; gap: 2rem;">
+<p><span color="#A277FF"><b>Falaaaaaaa Github!</b></span> Meu nome é Jacó, sou um desenvolvedor full-stack de 17 anos de idade, atualmente cursando Redes de Computadores na escola estadual de ensino profissionalizante EEEP Leonel de Moura Brizola. A minha paixão por desenvolver veio da possibilidade de construir e acompanhar de perto o desenvolvimento de aplicações úteis e criativas, e é para isso que estou ingressando nessa carreira. Pretendo desenvolver muitos projetos e um dia, se der, ir embora do Brasil e realizar o meu sonho e o sonho da minha família de conquistar o mundo e ir morar fora. A todos que me ajudaram nessa trajetória <span color="#A277FF"><b>(principalmente meus amigos Cauan Victor, Pedro Yuri, Kauã Lima, Gustavo Oliveira e Igor Miguel)</b></span> muito obrigado mesmo por estarem comigo sempre, amo vocês!</p>
+</div>
 
 <header>
    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 </header>
 
-<div id="github-stats" align="left">
-   <a href="https://github.com/JacoMartins"></a>
-  <img height="160px" width="380px" src="https://github-readme-stats.vercel.app/api?username=JacoMartins&show_icons=true&bg_color=0d1117&border_color=636568&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160px" width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacoMartins&bg_color=0d1117&border_color=636568&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 Minha stack:
-<div style="display: inline_block">
+<div style="display: flex; flex-direction: column;">
   <img align="center" alt="Logomarca do HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Logomarca do CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Logomarca do Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
