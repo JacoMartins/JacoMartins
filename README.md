@@ -8,7 +8,7 @@
    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 </header>
 
-### <span color="#A277FF">Minha stack:</span>
+### <span>Minha stack:</span>
 <div style="display: flex; flex-direction: column;">
   <img align="center" alt="Logomarca do HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Logomarca do CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
