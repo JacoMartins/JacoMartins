@@ -8,4 +8,4 @@
    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 </header>
 
-#### Atualmente tenho experiência em processos de automação, construição de APIs e gerenciamento de sistemas, análises simples de dados, criação de Frontend e landing pages... até o momento já trabalhei com Python, PHP e Javascript.
+### Atualmente tenho experiência em processos de automação, construição de APIs e gerenciamento de sistemas, análises simples de dados, criação de Frontend e landing pages... até o momento já trabalhei com Python, PHP e Javascript.
