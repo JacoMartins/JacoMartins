@@ -1,3 +1,1 @@
-## Welcome to my profile! \^o^/
-
-#### You can see some of my projects below 👇
+## Welcome to my profile :D
