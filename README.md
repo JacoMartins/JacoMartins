@@ -1,3 +1,22 @@
+## Projects
+
+### 🔌 [embarcatech2026.1](https://github.com/JacoMartins/embarcatech2026.1)
+Embedded systems coursework in **C** targeting the **Raspberry Pi Pico W (RP2040)** — GPIO, timers, I2C, and peripheral drivers built with GCC + Ninja.
+
+### 🚌 [moovooca](https://github.com/JacoMartins/moovooca) · [live ↗](https://moovooca.vercel.app)
+App that helps students find bus routes, schedules, and real-time information to get to campus. Built with **Next.js**, **Flask**, **SQLAlchemy**, and **OpenAI**.
+
+### 🖥️ [Eclipse](https://github.com/JacoMartins/jacomartins.github.io) · [live ↗](https://jacomartins.vercel.app)
+An online working operating system in the browser — file access, editing, and a desktop environment rendered entirely with JavaScript. Exploration of web rendering and dynamic UI composition.
+
+### 🗂️ [port.me](https://github.com/JacoMartins/port.me-hobby) · [live ↗](https://portme.vercel.app)
+Free online portfolio builder, made to explore React, web rendering, and REST API fundamentals. Full-stack: **Express**, **PostgreSQL**, **Prisma**, **Docker Compose**.
+
+### 🔁 [nlw-return-impulse](https://github.com/JacoMartins/nlw-return-impulse) · [live ↗](https://nlw-return-impulse-three-dun.vercel.app)
+Full-stack web application built during Rocketseat's NLW Return event.
+
+---
+
 ## Tech Stack
 
 **Languages**
@@ -30,25 +49,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-## Projects
-
-### 🔌 [embarcatech2026.1](https://github.com/JacoMartins/embarcatech2026.1)
-Embedded systems coursework in **C** targeting the **Raspberry Pi Pico W (RP2040)** — GPIO, timers, I2C, and peripheral drivers built with GCC + Ninja.
-
-### 🚌 [moovooca](https://github.com/JacoMartins/moovooca) · [live ↗](https://moovooca.vercel.app)
-App that helps students find bus routes, schedules, and real-time information to get to campus. Built with **Next.js**, **Flask**, **SQLAlchemy**, and **OpenAI**.
-
-### 🖥️ [Eclipse](https://github.com/JacoMartins/jacomartins.github.io) · [live ↗](https://jacomartins.vercel.app)
-An online working operating system in the browser — file access, editing, and a desktop environment rendered entirely with JavaScript. Exploration of web rendering and dynamic UI composition.
-
-### 🗂️ [port.me](https://github.com/JacoMartins/port.me-hobby) · [live ↗](https://portme.vercel.app)
-Free online portfolio builder, made to explore React, web rendering, and REST API fundamentals. Full-stack: **Express**, **PostgreSQL**, **Prisma**, **Docker Compose**.
-
-### 🔁 [nlw-return-impulse](https://github.com/JacoMartins/nlw-return-impulse) · [live ↗](https://nlw-return-impulse-three-dun.vercel.app)
-Full-stack web application built during Rocketseat's NLW Return event.
 
 ---
 
