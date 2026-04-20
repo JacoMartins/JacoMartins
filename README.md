@@ -1,4 +1,4 @@
-## Projects
+## Highlighted projects
 
 ### 🔌 [embarcatech2026.1](https://github.com/JacoMartins/embarcatech2026.1)
 Embedded systems coursework in **C** targeting the **Raspberry Pi Pico W (RP2040)** — GPIO, timers, I2C, and peripheral drivers built with GCC + Ninja.
