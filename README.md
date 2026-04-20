@@ -3,16 +3,16 @@
 ### 🔌 [embarcatech2026.1](https://github.com/JacoMartins/embarcatech2026.1)
 Embedded systems coursework in **C** targeting the **Raspberry Pi Pico W (RP2040)** — GPIO, timers, I2C, and peripheral drivers built with GCC + Ninja.
 
-### 🚌 [moovooca](https://github.com/JacoMartins/moovooca) · [live ↗](https://moovooca.vercel.app)
+### 🚌 [moovooca](https://github.com/JacoMartins/moovooca)
 App that helps students find bus routes, schedules, and real-time information to get to campus. Built with **Next.js**, **Flask**, **SQLAlchemy**, and **OpenAI**.
 
-### 🖥️ [Eclipse](https://github.com/JacoMartins/jacomartins.github.io) · [live ↗](https://jacomartins.vercel.app)
+### 🖥️ [Eclipse](https://github.com/JacoMartins/jacomartins.github.io)
 An online working operating system in the browser — file access, editing, and a desktop environment rendered entirely with JavaScript. Exploration of web rendering and dynamic UI composition.
 
-### 🗂️ [port.me](https://github.com/JacoMartins/port.me-hobby) · [live ↗](https://portme.vercel.app)
+### 🗂️ [port.me](https://github.com/JacoMartins/port.me-hobby)
 Free online portfolio builder, made to explore React, web rendering, and REST API fundamentals. Full-stack: **Express**, **PostgreSQL**, **Prisma**, **Docker Compose**.
 
-### 🔁 [nlw-return-impulse](https://github.com/JacoMartins/nlw-return-impulse) · [live ↗](https://nlw-return-impulse-three-dun.vercel.app)
+### 🔁 [nlw-return-impulse](https://github.com/JacoMartins/nlw-return-impulse)
 Full-stack web application built during Rocketseat's NLW Return event.
 
 ---
