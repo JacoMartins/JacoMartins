@@ -1,7 +1,7 @@
 ## Highlighted projects
 
 ### 🔌 [embarcatech2026.1](https://github.com/JacoMartins/embarcatech2026.1)
-Embedded systems coursework in **C** targeting the **Raspberry Pi Pico W (RP2040)** — GPIO, timers, I2C, and peripheral drivers built with GCC + Ninja.
+Embedded systems coursework in **C** targeting the **Raspberry Pi Pico W (RP2040)**. Learnt a lot about GPIO, timers, I2C, and peripheral drivers. Built with GCC (TDM) + Ninja.
 
 ### 🚌 [moovooca](https://github.com/JacoMartins/moovooca)
 App that helps students find bus routes, schedules, and real-time information to get to the UFC campus. Built with **Next.js**, **Flask**, **SQLAlchemy**, and **OpenAI**.
