@@ -7,7 +7,7 @@ Embedded systems coursework in **C** targeting the **Raspberry Pi Pico W (RP2040
 App that helps students find bus routes, schedules, and real-time information to get to the UFC campus. Built with **Next.js**, **Flask**, **SQLAlchemy**, and **OpenAI**.
 
 ### 🖥️ [Eclipse](https://github.com/JacoMartins/jacomartins.github.io)
-An online operating system based project in the browser: file access, editing, and a desktop environment rendered entirely with JavaScript. Exploration of web rendering and dynamic UI composition.
+An operating system simulator/desktop environment rendered entirely with javascript in the browser: file access, editing and responsive window management. Exploration of javascript guided web rendering and UI composition.
 
 ### 🗂️ [port.me](https://github.com/JacoMartins/port.me-hobby)
 Free online portfolio builder, made to explore React, web rendering, and REST API fundamentals. Full-stack: **Express**, **PostgreSQL**, **Prisma**, **Docker Compose**.
