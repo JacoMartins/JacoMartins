@@ -4,7 +4,7 @@
 Embedded systems coursework in **C** targeting the **Raspberry Pi Pico W (RP2040)**. Learnt a lot about GPIO, timers, I2C, and peripheral drivers. Built with GCC + Ninja.
 
 ### 🚌 [moovooca](https://github.com/JacoMartins/moovooca)
-App that helps students find bus routes, schedules, and real-time information to get to the UFC campus. Built with **Next.js**, **Flask**, **SQLAlchemy**, and **OpenAI**.
+App that helps students find bus routes, schedules, and real-time information to get to the UFC campus. Built by me from scratch, slightly before AI was useful for coding, with **Next.js**, **Flask**, **SQLAlchemy**, and **OpenAI API** for generating custom informational texts for the bus lines.
 
 ### 🖥️ [Eclipse](https://github.com/JacoMartins/jacomartins.github.io)
 An operating system simulator/desktop environment rendered entirely with javascript in the browser: file access, editing and responsive window management. Exploration of javascript guided web rendering and UI composition.
