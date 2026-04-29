@@ -1,22 +1,22 @@
 ## Highlighted projects
 
 ### 🔌 [embarcatech2026.1](https://github.com/JacoMartins/embarcatech2026.1)
-Embedded systems coursework in **C** targeting the **Raspberry Pi Pico W (RP2040)**. Learnt a lot about GPIO, timers, I2C, and peripheral drivers. Built with GCC + Ninja.
+Embedded systems coursework in **C** targeting the **Raspberry Pi Pico W (RP2040)**. Hands-on with GPIO, timers, I2C, and peripheral drivers. Built with GCC + Ninja.
 
 ### 🚌 [moovooca](https://github.com/JacoMartins/moovooca)
-App that helps students find bus routes, schedules, and real-time information to get to the UFC campus. Built by me from scratch, slightly before AI was useful for coding, with **Next.js**, **Flask**, **SQLAlchemy**, and **OpenAI API** for generating custom informational texts for the bus lines.
+App that helps students find bus routes, schedules, and real-time information to get to the UFC campus. Built from scratch — slightly before AI was useful for coding — with **Next.js**, **Flask**, **SQLAlchemy**, and the **OpenAI API** for generating custom informational texts for each bus line.
 
 ### 🖥️ [Eclipse](https://github.com/JacoMartins/jacomartins.github.io)
-An operating system simulator/desktop environment rendered entirely with javascript in the browser: file access, editing and responsive window management. Exploration of javascript guided web rendering and UI composition.
+A desktop environment / operating system simulator rendered entirely with JavaScript in the browser: file access, editing, and responsive window management. An exploration of UI composition and JS-driven web rendering.
 
-### ⚛️ [reactjs-ceara](https://github.com/JacoMartins/reactjs-ceara)
-A simple contribution that I made for the ReactJS community from Ceará, my state, Brazil. It was important for me: I've learnt how to use simple content managers and to analyse different ways people code.
+### 🔤 [word_swapper-swift](https://github.com/JacoMartins/word_swapper-swift)
+Swift app exploring **iOS development fundamentals** — UI building, state management, and string manipulation. My entry point into the Apple ecosystem.
 
 ### 🗂️ [port.me](https://github.com/JacoMartins/port.me-hobby)
 Free online portfolio builder, made to explore React, web rendering, and REST API fundamentals. Full-stack: **Express**, **PostgreSQL**, **Prisma**, **Docker Compose**.
 
-### 🔁 [nlw-return-impulse](https://github.com/JacoMartins/nlw-return-impulse)
-Full-stack web application built during Rocketseat's NLW Return event.
+### ⚛️ [reactjs-ceara](https://github.com/JacoMartins/reactjs-ceara)
+A contribution to the ReactJS community of Ceará, my home state in Brazil. Learnt to work with content managers and read other people's code styles.
 
 ---
 
@@ -24,11 +24,18 @@ Full-stack web application built during Rocketseat's NLW Return event.
 
 **Languages**
 
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+**Apple Platforms**
+
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=xcode&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0066CC?style=flat-square&logo=swift&logoColor=white)
 
 **Frontend**
 
@@ -44,6 +51,17 @@ Full-stack web application built during Rocketseat's NLW Return event.
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+**Mobile**
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0066CC?style=flat-square&logo=swift&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Embedded & Hardware**
+
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 
 **Databases & Tools**
 
