@@ -1,5 +1,8 @@
 ## Highlighted projects
 
+### 🔤 [word_swapper-swift](https://github.com/JacoMartins/word_swapper-swift)
+Swift app exploring **macOS UI development fundamentals** — UI building, state management, and string manipulation. My entry point into the Apple ecosystem.
+
 ### 🔌 [embarcatech2026.1](https://github.com/JacoMartins/embarcatech2026.1)
 Embedded systems coursework in **C** targeting the **Raspberry Pi Pico W (RP2040)**. Hands-on with GPIO, timers, I2C, and peripheral drivers. Built with GCC + Ninja.
 
@@ -8,9 +11,6 @@ App that helps students find bus routes, schedules, and real-time information to
 
 ### 🖥️ [Eclipse](https://github.com/JacoMartins/jacomartins.github.io)
 A desktop environment / operating system simulator rendered entirely with JavaScript in the browser: file access, editing, and responsive window management. An exploration of UI composition and JS-driven web rendering.
-
-### 🔤 [word_swapper-swift](https://github.com/JacoMartins/word_swapper-swift)
-Swift app exploring **iOS development fundamentals** — UI building, state management, and string manipulation. My entry point into the Apple ecosystem.
 
 ### 🗂️ [port.me](https://github.com/JacoMartins/port.me-hobby)
 Free online portfolio builder, made to explore React, web rendering, and REST API fundamentals. Full-stack: **Express**, **PostgreSQL**, **Prisma**, **Docker Compose**.
